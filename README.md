@@ -1,0 +1,1 @@
+本项目记录学习Opencv的过程，主要是使用Python(包括jupyter编辑器)
